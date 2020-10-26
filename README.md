@@ -9,4 +9,4 @@ Also, you will see that I have a range of interests like natural language proces
 
 My blog is right at the left if you want to know more about me (WIP and currently not a priority).
 
-☀
+✵
