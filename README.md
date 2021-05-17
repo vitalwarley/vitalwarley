@@ -1,6 +1,11 @@
 ☉ 
 
-Currently, I am appling machine and deep learning to metabolomics, visual kinship recognition and truck classification.
+Now--appling machine and deep learning in projects related to
+ -  OCR (license plates), 
+ -  Object detection (security, soccer),
+ -  Visual kinship recognition,
+ -  Truck classification, and
+ -  Metabolomics.
 
 
 You will see here a lot of things from my `dotfiles` (neovim, i3, etc.) to my note-taking scripts. They are more or less updated.
