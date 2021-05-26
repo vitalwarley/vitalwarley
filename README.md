@@ -7,6 +7,14 @@ Now--appling machine and deep learning in projects related to
  -  Truck classification, and
  -  Metabolomics.
 
+Skills (TODO: link sample projects below):
+  - Frameworks
+    - TensorFlow / Keras
+    - PyTorch
+  - ...
+  - Languages
+    - Python
+    - R
 
 You will see here a lot of things from my `dotfiles` (neovim, i3, etc.) to my note-taking scripts. They are more or less updated.
 
