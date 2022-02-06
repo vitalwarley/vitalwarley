@@ -1,8 +1,9 @@
 ☉ 
 
-Now--appling machine and deep learning in projects related to
- -  OCR (license plates), 
- -  Object detection (security, soccer),
+Now--appling (or aplied) machine and deep learning in projects related to
+ -  OCR (license plates and similar), 
+ -  Object detection,
+ -  PCB inspection,
  -  Visual kinship recognition,
  -  Truck classification, and
  -  Metabolomics.
