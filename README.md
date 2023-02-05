@@ -2,14 +2,13 @@
 
 Now--appling (or aplied) machine and deep learning in projects related to
  -  OCR (license plates and similar), 
- -  Object detection,
+ -  Object detection (current method for OCR),
  -  PCB inspection (siamese nets),
- -  Visual kinship recognition (siamese nets; experiments for my TCC, or final paper from graduation),
-    - Checkout my [research repo](https://github.com/vitalwarley/research). 
+ -  Visual kinship recognition (for a time),
  -  Truck classification, and
  -  Metabolomics (no more).
 
-Skills (TODO: link sample projects below):
+Skills
   - Frameworks
     - TensorFlow / Keras
     - PyTorch / PyTorchLightning (main tools)
@@ -17,6 +16,7 @@ Skills (TODO: link sample projects below):
   - Languages
     - Python (main)
     - R (no more)
+  - MLOps tooling, like DVC.
 
 You will see here a lot of things from my `dotfiles` (neovim, i3, etc.) to my note-taking scripts. They are more or less updated.
 
